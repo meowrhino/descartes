@@ -15,6 +15,7 @@ Cada uno sigue en su propio repo; aquí solo están los enlaces.
 | [oriol colomer v0](https://meowrhino.github.io/oriol-colomerv0/) | [oriol-colomerv0](https://github.com/meowrhino/oriol-colomerv0) | en uso: oriol-colomer |
 | [viciostorpes](https://meowrhino.github.io/viciostorpes/) | [viciostorpes](https://github.com/meowrhino/viciostorpes) | en uso: viciostorpesV2 |
 | [diego3](https://meowrhino.github.io/diego3/) | [diego3](https://github.com/meowrhino/diego3) | en uso: diegosanmarcos |
+| [tatara v0](https://meowrhino.github.io/tatarav0/) | [tatarav0](https://github.com/meowrhino/tatarav0) | en uso: tatara |
 | [rikamichie v0](https://meowrhino.github.io/rikamichiev0/) | [rikamichiev0](https://github.com/meowrhino/rikamichiev0) | en uso: rikamichie |
 | [safeAmorx](https://meowrhino.github.io/safeAmorx/) | [safeAmorx](https://github.com/meowrhino/safeAmorx) | sin usar |
 | [safeAmorx V2](https://meowrhino.github.io/safeAmorxV2/) | [safeAmorxV2](https://github.com/meowrhino/safeAmorxV2) | sin usar |
