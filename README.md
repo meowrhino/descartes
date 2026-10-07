@@ -11,9 +11,9 @@ Cada uno sigue en su propio repo; aquí solo están los enlaces.
 | [annaCarreras — diseños](https://meowrhino.github.io/annaCarreras-disenos/) | [annaCarreras-disenos](https://github.com/meowrhino/annaCarreras-disenos) | 8 versiones · en uso: annaCarreras |
 | [valentin](https://meowrhino.github.io/valentin/) | [valentin](https://github.com/meowrhino/valentin) | en uso: valentin3 |
 | [valentin 2](https://meowrhino.github.io/valentin2/) | [valentin2](https://github.com/meowrhino/valentin2) | en uso: valentin3 |
-| [ladiegol v2](https://meowrhino.github.io/ladiegolv2/) | [ladiegolv2](https://github.com/meowrhino/ladiegolv2) | en uso: ladiegol |
+| [ladiegol v2](https://meowrhino.github.io/ladiegolv2/) | [ladiegolv2](https://github.com/meowrhino/ladiegolv2) | en uso: ladiegol/web |
 | [oriol colomer v0](https://meowrhino.github.io/oriol-colomerv0/) | [oriol-colomerv0](https://github.com/meowrhino/oriol-colomerv0) | en uso: oriol-colomer |
-| [viciostorpes](https://meowrhino.github.io/viciostorpes/) | [viciostorpes](https://github.com/meowrhino/viciostorpes) | en uso: viciostorpesV2 |
+| [viciostorpes](https://meowrhino.github.io/viciostorpes/) | [viciostorpes](https://github.com/meowrhino/viciostorpes) | en uso: viciostorpes/web (era viciostorpesV2) |
 | [diego3](https://meowrhino.github.io/diego3/) | [diego3](https://github.com/meowrhino/diego3) | en uso: diegosanmarcos |
 | [tatara v0](https://meowrhino.github.io/tatarav0/) | [tatarav0](https://github.com/meowrhino/tatarav0) | en uso: tatara |
 | [rikamichie v0](https://meowrhino.github.io/rikamichiev0/) | [rikamichiev0](https://github.com/meowrhino/rikamichiev0) | en uso: rikamichie |
